@@ -1,2 +1,5 @@
 # reactAndVite
-React+Ts +Vite标准化框架搭建
+
+React+Ts +Vite 标准化框架搭建
+
+https://juejin.cn/post/7059236538923614216

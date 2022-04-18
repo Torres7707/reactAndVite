@@ -1,0 +1,16 @@
+# /node*modules/* and /bower*components/* in the project root are ignored by default
+
+build/\*
+_.sh 
+node_modules 
+_.md 
+_.woff 
+_.ttf 
+.vscode 
+.idea 
+dist 
+/public 
+/docs 
+.husky 
+.local 
+/bin
